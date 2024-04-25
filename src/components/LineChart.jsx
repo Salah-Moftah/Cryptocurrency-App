@@ -20,7 +20,7 @@ function LineChart({ coinHistory, currentPrice, coinName }) {
     labels: coinTimestamp,
     datasets: [
       {
-        label: 'Price in USA',
+        label: 'Price in USD',
         data: coinPrice,
         fill: false,
         backgroundColor: '#0071bd',
