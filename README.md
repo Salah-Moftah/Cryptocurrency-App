@@ -5,7 +5,7 @@
 
 <p>provides users with information about various cryptocurrencies, including their prices, market capitalization, trading volume, and other relevant statistics. Users can also view historical price data, news articles related to cryptocurrencies, and explore different cryptocurrencies based on their categories.</p>
 
-<p>More than one API was used in the project, including <a href="https://rapidapi.com/Coinranking/api/coinranking1" target="_blank">Coinranking</a>to display everything related to cryptocurrency and <a href="https://newsapi.org" target="_blank">News Api</a> to display the latest cryptocurrency news.</p>
+<p>More than one API was used in the project, including <a href="https://rapidapi.com/Coinranking/api/coinranking1" target="_blank">Coinranking</a> to display everything related to cryptocurrency and <a href="https://newsapi.org" target="_blank">News Api</a> to display the latest cryptocurrency news.</p>
 
 <div><h3>Demo: </h3><a href="https://top-movie.vercel.app/" target="_blank">https://top-movie.vercel.app</a></div>
 
