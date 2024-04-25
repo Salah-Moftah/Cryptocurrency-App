@@ -1,70 +1,38 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Cryptocurrency-App</h1>
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+<p>provides users with information about various cryptocurrencies, including their prices, market capitalization, trading volume, and other relevant statistics. Users can also view historical price data, news articles related to cryptocurrencies, and explore different cryptocurrencies based on their categories.</p>
 
-### `npm start`
+<p>More than one API was used in the project, including <a href="https://rapidapi.com/Coinranking/api/coinranking1" target="_blank">Coinranking</a>to display everything related to cryptocurrency and <a href="https://newsapi.org" target="_blank">News Api</a> to display the latest cryptocurrency news.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div><h3>Demo: </h3><a href="https://top-movie.vercel.app/" target="_blank">https://top-movie.vercel.app</a></div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- **Live Cryptocurrency Prices:** View real-time prices of various cryptocurrencies in US dollars (USD).
+  
+- **Cryptocurrency Details:** Explore detailed information about each cryptocurrency, including its rank, market capitalization, circulating supply, and more.
+  
+- **Price Charts:** Visualize historical price data for cryptocurrencies using interactive charts.
+  
+- **News Section:** Stay updated with the latest news articles related to cryptocurrencies from various sources.
+  
+- **Search and Filter:** Easily search for specific cryptocurrencies and filter them based on different criteria such as price, market cap, and volume.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Tools and Technologies Used
+- React.js
+- Redux Toolkit & RTK Query
+- Axios
+- Chart.js
+- Ant Design
+- Moment.js
+- Millify
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact
+- GitHub [@Salah-Moftah](https://github.com/Salah-Moftah)
+- FaceBook [@salahmoftah142](https://www.facebook.com/salahmoftah142)
+- LinkedIn [@salah-moftah-12293b219](https://www.linkedin.com/in/salah-moftah-12293b219)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
